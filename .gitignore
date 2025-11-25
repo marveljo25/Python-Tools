@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Editor dirs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# distribution
+build/
+dist/
+*.egg-info/
+
+# logs
+*.log
+
+# system files
+*.swp
+
+# images/videos (optional to track manually)
+#*.png
+#*.jpg
+#*.mp4
