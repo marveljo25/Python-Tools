@@ -11,6 +11,13 @@ A small GUI tool (Tkinter + OpenCV) for broadcasting an image or video as a virt
 - Python 3.8+ (recommended)
 - Windows (tested)
 
+Fake Cam works with the following virtual camera backends:
+- **OBS Studio (includes Virtual Camera)**
+  - Download: https://obsproject.com/download
+
+- **UnityCapture**
+  - Download: https://github.com/schellingb/UnityCapture/releases
+  
 Dependencies are listed in `requirements.txt`.
 
 ## Quick start
