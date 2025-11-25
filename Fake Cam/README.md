@@ -1,6 +1,7 @@
 # Pro Fake Cam
 
 A small GUI tool (Tkinter + OpenCV) for broadcasting an image or video as a virtual camera feed using pyvirtualcam. The main application file is `main.py`.
+[← Back to Main README](../README.md)  
 
 ## Features
 - Upload an image or video file
